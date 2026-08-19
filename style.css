@@ -1,0 +1,39 @@
+body {
+    /* \nome da cor */
+    /* bacground-color: red; */
+
+    /* Hexadecimal */
+    /* bacgorund-color: #F28705 */
+
+    /* RGB */
+    /* bacground-color: rgb(255,72, 133); */
+
+    /* RGB COM TRANSPARENCIA */
+    background-color: rgba(253, 253, 131, 0.499);
+}
+
+h1 {
+    color:darkcyan;
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 50px;
+}
+
+p {
+    font-size: 120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+h2 {
+    color:rgb(141, 34, 155);
+    font-size: 5vw;
+}
+
+/* PX (pixels) é uma unidade fixa. O tamanho sempre será o mesmo, independente di tamanho da tela. */
+
+/* 2em - o dobro do tamanho padraão, significa que ele é ,ultiplicador do tamanho base */
+
+/* 120% - 20% maior que o padrão */
+
+/* 5VW - 5% da largura da tela / isso faz com que o tamanho do texto se ajuste ao tamanho da tela!, MUITO útil para design responsivo. */
+
