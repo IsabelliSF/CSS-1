@@ -9,25 +9,27 @@ body {
     /* bacground-color: rgb(255,72, 133); */
 
     /* RGB COM TRANSPARENCIA */
-    background-color: rgba(253, 253, 131, 0.499);
+    background-color: rgb(181, 199, 248);
 }
 
 h1 {
-    color:darkcyan;
-    font-family: Arial, Helvetica, sans-serif
+    color:rgb(0, 17, 255);
+    font-family: "Archivo Black", sans-serif
     font-size: 50px;
 }
 
 p {
-    font-size: 120%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 900;
-    line-geigt espaçamento entre linhas
+    .archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 }
 
 h2 {
-    color:rgb(141, 34, 155);
-    font-size: 5vw;
+    color:rgb(255, 8, 0);
+    font-size: 30px;
 }
 
 /* PX (pixels) é uma unidade fixa. O tamanho sempre será o mesmo, independente di tamanho da tela. */
@@ -51,10 +53,9 @@ Cotrola a grossura (negruito) do texto.
   font-family: "Archivo Black", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
-
-
-
-
-
 */
+
+
+
+
+
