@@ -3,3 +3,53 @@ body
     background-color: #F2EFDF;
     
 }
+
+p{
+
+  font-family: "Alumni Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 25px;
+  font-style: normal;
+}
+
+ul{
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-style: normal;
+    
+}
+
+h2{
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 40px;
+    font-style: normal;
+}
+
+h3{
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 26px;
+    font-style: normal;
+}
+h1{
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 55px;
+    font-style: normal;
+}
+
+<style>
+
+.galeria {
+    display: flex;
+    gap: 10px; 
+}
+
+.galeria img {
+    max-width: 100%;
+    height: auto;
+}
+
+</style>
